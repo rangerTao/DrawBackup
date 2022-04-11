@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-04-11T11:12:12.929Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.75 Safari/537.36" etag="vwtk8N2eENNKYRYfqVjG" version="17.4.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-04-11T11:23:00.171Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.75 Safari/537.36" etag="QtGDctU6gmd7IkqqZSXB" version="17.4.0" type="github">
   <diagram id="kgpKYQtTHZ0yAKxKKP6v" name="Page-1">
     <mxGraphModel dx="1799" dy="702" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -198,7 +198,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="P__QsPS7ya9Hl_gslWMf-1" value="云游戏" style="shape=umlLifeline;perimeter=lifelinePerimeter;container=1;collapsible=0;recursiveResize=0;rounded=0;shadow=0;strokeWidth=1;" vertex="1" parent="1">
-          <mxGeometry x="-120" y="730" width="120" height="300" as="geometry" />
+          <mxGeometry x="-110" y="560" width="120" height="300" as="geometry" />
         </mxCell>
         <mxCell id="P__QsPS7ya9Hl_gslWMf-10" value="" style="points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;strokeWidth=1;" vertex="1" parent="P__QsPS7ya9Hl_gslWMf-1">
           <mxGeometry x="60" y="70" width="10" height="40" as="geometry" />
@@ -207,7 +207,7 @@
           <mxGeometry x="60" y="140" width="10" height="30" as="geometry" />
         </mxCell>
         <mxCell id="P__QsPS7ya9Hl_gslWMf-7" value="Start" style="shape=umlLifeline;perimeter=lifelinePerimeter;container=1;collapsible=0;recursiveResize=0;rounded=0;shadow=0;strokeWidth=1;" vertex="1" parent="1">
-          <mxGeometry x="120" y="730" width="120" height="300" as="geometry" />
+          <mxGeometry x="130" y="560" width="120" height="300" as="geometry" />
         </mxCell>
         <mxCell id="P__QsPS7ya9Hl_gslWMf-18" value="" style="points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;strokeWidth=1;" vertex="1" parent="P__QsPS7ya9Hl_gslWMf-7">
           <mxGeometry x="60" y="170" width="10" height="90" as="geometry" />
@@ -222,7 +222,7 @@
           <mxGeometry y="210" width="60" height="20" as="geometry" />
         </mxCell>
         <mxCell id="P__QsPS7ya9Hl_gslWMf-8" value="小米云游戏Server" style="shape=umlLifeline;perimeter=lifelinePerimeter;container=1;collapsible=0;recursiveResize=0;rounded=0;shadow=0;strokeWidth=1;" vertex="1" parent="1">
-          <mxGeometry x="360" y="730" width="120" height="300" as="geometry" />
+          <mxGeometry x="370" y="560" width="120" height="300" as="geometry" />
         </mxCell>
         <mxCell id="P__QsPS7ya9Hl_gslWMf-13" value="" style="points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;strokeWidth=1;" vertex="1" parent="P__QsPS7ya9Hl_gslWMf-8">
           <mxGeometry x="60" y="110" width="10" height="30" as="geometry" />
@@ -232,15 +232,15 @@
         </mxCell>
         <mxCell id="P__QsPS7ya9Hl_gslWMf-9" value="用户登录游戏" style="verticalAlign=bottom;startArrow=oval;endArrow=block;startSize=8;shadow=0;strokeWidth=1;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-180" y="800" as="sourcePoint" />
-            <mxPoint x="-60" y="800" as="targetPoint" />
+            <mxPoint x="-170" y="630" as="sourcePoint" />
+            <mxPoint x="-50" y="630" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="P__QsPS7ya9Hl_gslWMf-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.045;entryY=0.009;entryDx=0;entryDy=0;entryPerimeter=0;exitX=1.063;exitY=1.007;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="P__QsPS7ya9Hl_gslWMf-10" target="P__QsPS7ya9Hl_gslWMf-13">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="70" y="840" />
-              <mxPoint x="70" y="840" />
+              <mxPoint x="80" y="670" />
+              <mxPoint x="80" y="670" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -252,7 +252,7 @@
         <mxCell id="P__QsPS7ya9Hl_gslWMf-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1.013;entryY=0.041;entryDx=0;entryDy=0;entryPerimeter=0;dashed=1;" edge="1" parent="1" source="P__QsPS7ya9Hl_gslWMf-13" target="P__QsPS7ya9Hl_gslWMf-15">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="425" y="871" />
+              <mxPoint x="435" y="701" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -264,20 +264,20 @@
         <mxCell id="P__QsPS7ya9Hl_gslWMf-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.073;entryY=0.001;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="P__QsPS7ya9Hl_gslWMf-15" target="P__QsPS7ya9Hl_gslWMf-18">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="120" y="900" />
-              <mxPoint x="120" y="900" />
+              <mxPoint x="130" y="730" />
+              <mxPoint x="130" y="730" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="P__QsPS7ya9Hl_gslWMf-20" value="ID、token" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="50.00000033285784" y="890.0005376208014" as="geometry">
+          <mxGeometry x="60.00000033285784" y="720.0005376208014" as="geometry">
             <mxPoint y="2" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="P__QsPS7ya9Hl_gslWMf-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.079;entryY=0.02;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="P__QsPS7ya9Hl_gslWMf-23" target="P__QsPS7ya9Hl_gslWMf-22">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="414" y="950" />
+              <mxPoint x="424" y="780" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -289,7 +289,7 @@
         <mxCell id="P__QsPS7ya9Hl_gslWMf-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1.059;entryY=0.985;entryDx=0;entryDy=0;entryPerimeter=0;dashed=1;" edge="1" parent="1" source="P__QsPS7ya9Hl_gslWMf-22" target="P__QsPS7ya9Hl_gslWMf-23">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="196" y="980" />
+              <mxPoint x="206" y="810" />
             </Array>
           </mxGeometry>
         </mxCell>
